@@ -1,4 +1,6 @@
-// main ingredient (pvp)
-// notes: justrealmilk
-dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,1890422124,384158423 // stability masterwork
-dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,1890422124,2697220197 // range masterwork
+// Main Ingredient (PVP)
+dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,1890422124,384158423 // Stability masterwork
+dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,1890422124,2697220197 // Range masterwork
+
+// Null Composure (PVP)
+dimwishlist:item=1644680957&perks=2213355989,684616255
